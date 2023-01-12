@@ -7,6 +7,7 @@ Consiste en un pequeño programa que **encripta** y **desencripta** en base a la
 - La letra a es convertida para ai
 - La letra o es convertida para ober
 - La letra u es convertida para ufat
+
 **_Para desencriptar es el mismo proceso pero a la inversa_**
 
 ### Adicional
